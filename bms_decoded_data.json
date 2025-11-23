@@ -1,0 +1,9002 @@
+[
+  {
+    "timestamp": 0.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 1.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 2.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 3.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 4.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 5.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 6.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 7.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 8.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 9.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 10.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 11.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 12.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 13.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 14.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 98,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 15.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 16.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 17.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 18.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 19.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 20.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 21.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 22.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 23.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 24.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 25.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 26.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 27.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 28.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 29.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 30.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 31.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 32.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 33.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 34.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 35.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 36.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 37.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 38.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 39.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 40.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 41.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 42.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 43.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 44.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 45.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 46.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 47.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 48.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 49.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 50.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 51.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 52.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 53.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 54.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 55.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 56.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 57.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 58.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 59.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 60.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 61.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 62.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 63.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 64.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 65.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 66.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 67.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 68.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 69.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 70.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 71.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 72.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 73.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 74.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 75.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 76.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 77.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 78.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 79.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 80.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 81.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 82.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 83.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 84.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 85.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 86.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 87.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 88.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 89.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 90.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 91.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 92.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 93.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 94.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 95.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 96.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 97.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 98.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 99.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 100.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 101.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 102.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 103.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 104.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 105.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 106.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 107.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 108.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 109.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 110.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 111.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 112.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 113.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 114.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 115.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 116.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 117.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 118.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 119.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 120.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 121.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 122.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 123.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 124.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 125.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 126.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 127.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 128.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 129.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 130.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 131.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 132.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 133.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 134.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 135.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 136.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 137.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 138.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 139.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 140.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 141.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 142.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 143.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 144.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 145.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 146.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 147.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 148.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 149.0,
+    "voltage": 8.1,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 150.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 151.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 152.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 153.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 154.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 155.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 156.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 157.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 158.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 159.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 160.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 161.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 162.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 163.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 164.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 165.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 166.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 167.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 168.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 169.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 170.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 171.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 172.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 173.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 174.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 175.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 176.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 177.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 178.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 179.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 180.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 181.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 182.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 183.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 184.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 185.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 186.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 187.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 188.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 189.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 190.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 191.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 192.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 193.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 194.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 195.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 196.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 197.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 198.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 199.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 200.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 201.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 202.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 203.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 204.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 205.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 206.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 207.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 208.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 209.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 210.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 211.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 212.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 213.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 214.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 215.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 216.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 217.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 218.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 219.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 220.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 221.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 222.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 223.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 224.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 225.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 226.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 227.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 228.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 229.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 230.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 231.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 232.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 233.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 234.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 235.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 236.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 237.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 238.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 239.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 240.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 241.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 242.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 243.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 244.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 245.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 246.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 247.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 248.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 249.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 250.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 251.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 252.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 253.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 254.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 255.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 256.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 257.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 258.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 259.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 260.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 261.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 262.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 263.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 264.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 265.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 266.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 91,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 267.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 268.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 269.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 270.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 271.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 272.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 273.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 274.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 275.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 276.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 277.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 278.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 279.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 280.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 281.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 282.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 283.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 284.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 285.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 286.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 287.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 288.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 289.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 290.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 291.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 292.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 293.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 294.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 295.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 296.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 297.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 298.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 299.0,
+    "voltage": 8.0,
+    "current": 5.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 300.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 301.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 302.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 303.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 304.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 305.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 306.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 307.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 308.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 309.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 310.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 311.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 312.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 313.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 314.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 315.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 316.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 317.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 318.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 319.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 320.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 321.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 322.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 323.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 324.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 325.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 326.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 327.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 328.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 329.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 330.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 331.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 332.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 333.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 334.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 335.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 336.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 337.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 338.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 339.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 340.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 341.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 342.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 343.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 344.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 345.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 346.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 347.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 348.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 349.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 350.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 351.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 352.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 353.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 354.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 355.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 356.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 357.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 358.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 359.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 360.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 361.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 362.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 363.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 364.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 365.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 366.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 367.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 368.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 369.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 370.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 371.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 372.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 373.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 374.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 375.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 376.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 377.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 378.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 379.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 380.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 381.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 382.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 383.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 384.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 385.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 386.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 387.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 388.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 389.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 390.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 391.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 392.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 393.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 394.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 395.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 396.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 397.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 398.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 399.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 400.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 401.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 402.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 403.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 404.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 405.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 406.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 407.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 408.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 409.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 410.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 411.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 412.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 413.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 414.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 415.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 416.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 417.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 418.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 419.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 420.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 421.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 422.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 423.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 424.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 425.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 426.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 427.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 428.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 429.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 430.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 431.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 432.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 433.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 434.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 435.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 436.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 437.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 438.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 439.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 440.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 441.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 442.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 443.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 444.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 445.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 446.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 447.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 448.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 449.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 450.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 451.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 452.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 453.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 454.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 455.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 456.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 457.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 458.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 459.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 460.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 461.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 462.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 463.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 464.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 465.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 466.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 467.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 468.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 469.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 470.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 471.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 472.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 473.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 474.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 475.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 476.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 477.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 478.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 479.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 480.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 481.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 482.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 483.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 484.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 485.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 486.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 487.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 488.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 489.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 490.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 491.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 492.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 493.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 494.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 495.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 496.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 497.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 498.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 499.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 500.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 501.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 502.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 503.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 504.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 505.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 506.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 507.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 508.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 509.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 510.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 511.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 512.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 513.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 514.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 515.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 516.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 517.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 518.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 519.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 520.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 521.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 522.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 523.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 524.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 525.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 526.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 527.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 528.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 529.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 530.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 531.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 532.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 533.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 534.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 535.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 536.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 537.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 538.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 539.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 540.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 541.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 542.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 543.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 544.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 545.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 546.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 547.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 548.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 549.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 550.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 551.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 552.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 553.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 554.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 555.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 556.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 557.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 558.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 559.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 560.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 561.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 562.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 563.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 564.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 565.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 566.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 567.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 568.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 569.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 570.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 571.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 572.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 573.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 574.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 575.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 576.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 577.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 578.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 579.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 580.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 581.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 582.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 583.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 584.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 585.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 586.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 587.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 588.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 589.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 590.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 591.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 592.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 593.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 594.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 595.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 596.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 597.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 598.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 599.0,
+    "voltage": 8.2,
+    "current": 0.0,
+    "soc": 92,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 600.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 601.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 602.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 603.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 604.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 605.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 606.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 607.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 608.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 609.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 610.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 611.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 612.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 613.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 614.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 615.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 616.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 617.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 618.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 619.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 620.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 621.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 622.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 623.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 624.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 625.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 626.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 627.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 628.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 629.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 630.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 631.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 632.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 633.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 634.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 93,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 635.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 636.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 637.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 638.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 639.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 640.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 641.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 642.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 643.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 644.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 645.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 646.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 647.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 648.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 649.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 650.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 651.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 652.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 653.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 654.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 655.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 656.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 657.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 658.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 659.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 660.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 661.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 662.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 663.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 664.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 665.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 666.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 667.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 668.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 669.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 670.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 671.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 672.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 673.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 674.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 675.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 676.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 677.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 678.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 679.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 680.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 681.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 682.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 683.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 684.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 685.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 686.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 687.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 688.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 689.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 690.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 691.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 692.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 693.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 694.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 94,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 695.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 696.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 697.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 698.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 699.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 700.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 701.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 702.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 703.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 704.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 705.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 706.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 707.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 708.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 709.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 710.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 711.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 712.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 713.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 714.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 715.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 716.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 717.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 718.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 719.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 720.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 721.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 722.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 723.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 724.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 725.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 726.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 727.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 728.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 729.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 730.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 731.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 732.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 733.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 734.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 735.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 736.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 737.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 738.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 739.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 740.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 741.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 742.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 743.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 744.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 745.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 746.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 747.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 748.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 749.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 750.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 751.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 752.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 753.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 754.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 755.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 756.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 757.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 758.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 759.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 760.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 761.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 762.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 95,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 763.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 764.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 765.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 766.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 767.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 768.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 769.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 770.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 771.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 772.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 773.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 774.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 775.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 776.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 777.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 778.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 779.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 780.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 781.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 782.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 783.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 784.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 785.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 786.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 787.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 788.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 789.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 790.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 791.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 792.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 793.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 794.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 795.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 796.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 797.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 798.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 799.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 800.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 801.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 802.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 803.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 804.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 805.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 806.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 807.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 808.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 809.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 810.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 811.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 812.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 813.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 814.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 815.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 816.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 817.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 818.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 819.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 820.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 821.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 822.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 823.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 824.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 825.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 826.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 827.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 828.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 829.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 830.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 831.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 832.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 833.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 834.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 835.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 836.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 837.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 96,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 838.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 839.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 840.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 841.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 842.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 843.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 844.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 845.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 846.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 847.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 848.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 849.0,
+    "voltage": 8.4,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 850.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 851.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 852.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 853.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 854.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 855.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 856.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 857.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 858.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 859.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 860.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 861.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 862.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 863.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 864.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 865.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 866.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 867.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 868.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 869.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 870.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 871.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 872.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 873.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 874.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 875.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 876.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 877.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 878.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 879.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 880.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 881.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 882.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 883.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 884.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 885.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 886.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 887.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 888.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 889.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 890.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 891.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 892.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 893.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 894.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 895.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 896.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 897.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 898.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 899.0,
+    "voltage": 8.5,
+    "current": -3.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 900.0,
+    "voltage": 7.6,
+    "current": 15.0,
+    "soc": 90,
+    "temperature": 25,
+    "faults": 16,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 901.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 902.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 903.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 904.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 905.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 906.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 907.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 908.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 909.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 910.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 911.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 912.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 913.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 914.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 915.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 916.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 917.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 918.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 919.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 920.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 921.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 922.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 923.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 924.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 925.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 926.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 927.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 928.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 929.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 930.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 931.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 932.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 933.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 934.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 935.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 936.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 937.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 938.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 939.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 940.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 941.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 942.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 943.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 944.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 945.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 946.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 947.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 948.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 949.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 950.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 951.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 952.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 953.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 954.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 955.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 956.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 957.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 958.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 959.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 960.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 961.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 962.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 963.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 964.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 965.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 966.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 967.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 968.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 969.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 970.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 971.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 972.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 973.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 974.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 975.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 976.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 977.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 978.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 979.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 980.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 981.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 982.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 983.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 984.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 985.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 986.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 987.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 988.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 989.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 990.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 991.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 992.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 993.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 994.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 995.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 996.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 997.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 998.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  },
+  {
+    "timestamp": 999.0,
+    "voltage": 8.3,
+    "current": 0.0,
+    "soc": 97,
+    "temperature": 25,
+    "faults": 0,
+    "checksum_valid": true
+  }
+]

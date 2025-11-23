@@ -1,0 +1,14 @@
+BMS CAN SIMULATION SUMMARY
+================================================================================
+
+Configuration: 2s2p Li-ion pack (5.0 Ah)
+Simulation time: 1000.0s
+CAN period: 1.0s
+
+Final SOC: 96.66%
+Max temperature: 25.38°C
+Total CAN messages: 1200
+Total faults: 1
+
+Fault breakdown:
+  Overcurrent: 1 occurrences
