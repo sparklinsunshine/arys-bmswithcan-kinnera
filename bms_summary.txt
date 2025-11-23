@@ -1,0 +1,7 @@
+BMS SIMULATION SUMMARY
+======================================================================
+
+Final SOC: 96.66%
+Max Temperature: 25.38°C
+Total Faults: 1
+Total Warnings: 3999
