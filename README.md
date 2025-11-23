@@ -50,12 +50,10 @@ The project was developed as part of an EV-focused embedded systems assignment.
 
 ## 2. Repository Structure
 
-Adjust names if you used different filenames.
-
 ```text
 .
-├─ bms_sim_v1.py          # Version 1: pack model only (V, I, SOC, T)
-├─ bms_sim_v2_faults.py   # Version 2: adds fault detection & shutdown/cooling
-├─ bms_can_sim.py         # Version 3: adds CAN encoding + VCU logic
-├─ report/                # (Optional) PDF report and figures
+├─ code_1.py          # Version 1: pack model only (V, I, SOC, T)
+├─ code_2.py   # Version 2: adds fault detection & shutdown/cooling
+├─ code_3.py         # Version 3: adds CAN encoding + VCU logic
+├─ report/                # PDF report and figures
 └─ README.md
